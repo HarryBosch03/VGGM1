@@ -35,7 +35,11 @@
   },
   "name":"VGGM1",
   "resources":[
+    {"id":{"name":"Obj_Bob","path":"objects/Obj_Bob/Obj_Bob.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"Spr_Bob","path":"sprites/Spr_Bob/Spr_Bob.yy",},},
+    {"id":{"name":"Spr_Tiles_Industrial","path":"sprites/Spr_Tiles_Industrial/Spr_Tiles_Industrial.yy",},},
+    {"id":{"name":"TS_Industrial","path":"tilesets/TS_Industrial/TS_Industrial.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
