@@ -1,12 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"Obj_Bob",
+  "%Name":"obj_Bob",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"Obj_Bob",
+  "name":"obj_Bob",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -36,8 +37,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"Spr_Bob",
-    "path":"sprites/Spr_Bob/Spr_Bob.yy",
+    "name":"spr_Bob",
+    "path":"sprites/spr_Bob/spr_Bob.yy",
   },
   "spriteMaskId":null,
   "visible":true,

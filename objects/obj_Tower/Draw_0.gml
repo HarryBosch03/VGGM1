@@ -1,6 +1,15 @@
-if (target != noone)
+if (debug_mode)
 {
-	draw_line(x, y, target.x, target.y);
+	draw_set_color(c_red);
+
+	if (instance_exists(target))
+	{
+		draw_line(x, y, target.x, target.y);
+	}
+	
+	draw_circle(x, y, range, true);
 }
 
-draw_sprite(object_get_sprite());
+draw_set_color(c_white);
+
+draw_sprite_ext(sprite_index, image_index, x, y, image_xscale, image_yscale, image_angle, c_white, 1);

@@ -18,8 +18,8 @@
   "resourceType":"GMTileSet",
   "resourceVersion":"2.0",
   "spriteId":{
-    "name":"Spr_Tiles_Industrial",
-    "path":"sprites/Spr_Tiles_Industrial/Spr_Tiles_Industrial.yy",
+    "name":"spr_Tiles_Industrial",
+    "path":"sprites/spr_Tiles_Industrial/spr_Tiles_Industrial.yy",
   },
   "spriteNoExport":false,
   "textureGroupId":{
